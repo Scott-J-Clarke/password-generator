@@ -6,12 +6,12 @@ This is a password generator. It was built with some starter code, HTML, CSS, an
 
 It will:
 
-- take user input about the desired length (between 8 and 128 characters) of the random password
-- ask the user to choose if they want numbers, symbols, lowercase letters, or uppercase letters in their password
+- accept user input about the desired length (between 8 and 128 characters) of the random password
+- have the user decide if they want numbers, symbols, lowercase letters, or uppercase letters in their password
 - return two separate alerts if the user decides to generate a password outside these specifications
 - provide the user with a random password
 
-Through making the password generator I :
+Through making the password generator I:
 
 - gained experience with JavaScript "prompt", "confirm", and "alert"
 - used "addEventListener" to connect an HTML element with JavaScript
@@ -22,15 +22,13 @@ Through making the password generator I :
 
 ## Installation
 
-This password generator can be viewed online at:
-
-[scott-portfolio](https://scott-j-clarke.github.io/scott-portfolio/)
+This password generator can be [viewed online](https://scott-j-clarke.github.io/password-generator/).
 
 ---
 
 ## Usage
 
-Look at the password generator through Chrome "developer tools" to learn a how the HTML and JavaScript are connected. 
+Look at the password generator through Chrome "developer tools" to learn how the HTML and JavaScript are connected. 
 
 ---
 
@@ -50,6 +48,6 @@ MIT
 
 ## Screenshot
 
-![Password generator screenshot](Develop/password-generator-screenshot.jpg)
+![Password generator screenshot](password-generator-screenshot.jpg)
 
 ---
